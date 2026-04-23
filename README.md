@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=Hossein%20Yousefi&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Like%20New%20Impossible%20Ideas&descAlignY=60&descAlign=50" alt="Secondary Profile Banner"/>
+</div>
 
-<!--
-**hosseinyousefi-xebia/hosseinyousefi-xebia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+> *Empowering teams with next-generation platform engineering and AI tools.* 🤖☁️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+**Hossein Yousefi** *Solution Architect &middot; Platform Engineer* [👉 Visit Main Profile](https://github.com/hosein-yousefii) &nbsp;&middot;&nbsp; [🔗 Connect on LinkedIn](https://www.linkedin.com/in/hoseinyousefi/)
+
+</div>
+
+<br>
+
+---
